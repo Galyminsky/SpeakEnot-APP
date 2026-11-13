@@ -1,13 +1,12 @@
 # SpeakEnot-APP
 Privacy Policy for the SpeakEnot app, dated November 13, 2026.
 
-# Политика конфиденциальности / Privacy Policy
+# Privacy Policy
 
-**СпикЕнот (SpeakEnot)** — бесплатный визуальный англо-русский словарь для школьников.
 
-**Дата вступления в силу / Effective date:** 13 ноября 2026 г. / November 13, 2026  
-**Разработчик / Developer:** Юрий Галяминский / Yuriy Galyaminsky  
-**Контакт / Contact:** [galyaminsky@gmail.com](mailto:galyaminsky@gmail.com)
+**Effective date:**  November 13, 2026  
+**Developer:** Yuriy Galyaminsky  
+**Contact:** [galyaminsky@gmail.com](mailto:galyaminsky@gmail.com)
 
 ### 1. Overview
 
