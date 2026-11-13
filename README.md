@@ -9,10 +9,6 @@ Privacy Policy for the SpeakEnot app, dated November 13, 2026.
 **Разработчик / Developer:** Юрий Галяминский / Yuriy Galyaminsky  
 **Контакт / Contact:** [galyaminsky@gmail.com](mailto:galyaminsky@gmail.com)
 
-[Русская версия](#русская-версия) · [English version](#english-version)
-
-## English version
-
 ### 1. Overview
 
 This Privacy Policy explains how **SpeakEnot (СпикЕнот)**, an Android English–Russian visual dictionary, handles information when you use the app.
@@ -70,6 +66,5 @@ This Policy may be updated if app features, third-party services, or applicable 
 **Developer:** Yuriy Galyaminsky  
 **Email:** [galyaminsky@gmail.com](mailto:galyaminsky@gmail.com)
 
----
 
 *© 2026 Yuriy Galyaminsky. This document applies to the SpeakEnot Android app.*
